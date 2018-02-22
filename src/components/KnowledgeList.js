@@ -1,9 +1,9 @@
-import React, { Component } from "react"
+import React from "react"
 import { List, Icon } from "antd"
 
 import knowledges from "../data/knowledge.json"
 
-export default class KnowledgeList extends Component {
+export default class KnowledgeList extends React.Component {
   render() {
     const isMatchCategory = item => item.category === this.props.category
     const knowledgeFiltered = knowledges.filter(isMatchCategory)

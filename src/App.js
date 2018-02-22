@@ -1,13 +1,13 @@
-import React, { Component } from "react"
+import React from "react"
 import { Layout, Menu, Icon } from "antd"
 
 import KnowledgeList from "./components/KnowledgeList"
 
-import "./App.css"
+// import "./App.css"
 
 const { Header, Content, Footer, Sider } = Layout
 
-export default class App extends Component {
+export default class App extends React.Component {
   state = {
     category: "js"
   }

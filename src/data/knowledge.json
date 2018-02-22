@@ -1,0 +1,135 @@
+[
+  {
+    "category": "js",
+    "title": "Exploring ES6",
+    "author": "Dr. Axel Rauschmayer",
+    "href": "http://exploringjs.com/es6/index.html",
+    "video": false
+  },
+  {
+    "category": "js",
+    "title": "Airbnb JavaScript Style Guide",
+    "author": "Airbnb",
+    "href": "https://github.com/airbnb/javascript",
+    "video": false
+  },
+  {
+    "category": "js",
+    "title": "Functional Programming Basics In ES6",
+    "author": "Jeremy Fairbank",
+    "href": "https://www.youtube.com/watch?v=FYXpOjwYzcs",
+    "video": true
+  },
+  {
+    "category": "js",
+    "title": "What the heck is the event loop anyway?",
+    "author": "Philip Roberts",
+    "href": "https://www.youtube.com/watch?v=8aGhZQkoFbQ",
+    "video": true
+  },
+  {
+    "category": "react",
+    "title": "Presentational and Container Components",
+    "author": "Dan Abramov",
+    "href": "https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0",
+    "video": false
+  },
+  {
+    "category": "react",
+    "title": "Clean Code vs. Dirty Code",
+    "author": "Donavon West",
+    "href": "http://americanexpress.io/clean-code-dirty-code",
+    "video": false
+  },
+  {
+    "category": "react",
+    "title": "Callback functions in React",
+    "author": "Jason Arnold",
+    "href": "https://medium.com/@thejasonfile/callback-functions-in-react-e822ebede766",
+    "video": false
+  },
+  {
+    "category": "react",
+    "title": "Our Best Practices for Writing React Components",
+    "author": "Scott Domes",
+    "href": "https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8",
+    "video": false
+  },
+  {
+    "category": "redux",
+    "title": "learning Redux in 2018",
+    "author": "Valentino Gagliardi",
+    "href": "https://www.codementor.io/valentino/react-redux-tutorial-for-beginners-learning-redux-in-2018-fek71ojgh",
+    "video": false
+  },
+  {
+    "category": "redux",
+    "title": "My journey toward a maintainable project structure for React/Redux",
+    "author": "Matteo Mazzarolo",
+    "href": "https://hackernoon.com/my-journey-toward-a-maintainable-project-structure-for-react-redux-b05dfd999b5",
+    "video": false
+  },
+  {
+    "category": "redux",
+    "title": "Getting started with create-react-app, Redux, React Router & Redux Thunk",
+    "author": "Jamie Barton",
+    "href": "https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f",
+    "video": false
+  },
+  {
+    "category": "redux",
+    "title": "Implementing redux and react-router v4 in your react app",
+    "author": "Manoj",
+    "href": "http://manojsinghnegi.com/blog/2017/09/03/Implementing-redux-and-react-router-v4-in-your-react-app/",
+    "video": false
+  },
+  {
+    "category": "algorithm",
+    "title": "What's an algorithm ?",
+    "author": "David J. Malan",
+    "href": "https://www.youtube.com/watch?v=6hfOvs8pY1k",
+    "video": true
+  },
+  {
+    "category": "algorithm",
+    "title": "What is an algorithm and why should you care ?",
+    "author": "Khan Academy",
+    "href": "https://www.youtube.com/watch?v=CvSOaYi89B4",
+    "video": true
+  },
+  {
+    "category": "algorithm",
+    "title": "How to Explain Algorithms to Kids",
+    "author": "Tynker",
+    "href": "https://www.tynker.com/blog/articles/ideas-and-tips/how-to-explain-algorithms-to-kids/",
+    "video": false
+  },
+  {
+    "category": "algorithm",
+    "title": "Understanding the Basic Algorithms that Power Your Digital Life",
+    "author": "Tynker",
+    "href": "https://www.tynker.com/blog/articles/ideas-and-tips/understanding-the-basic-algorithms-that-power-your-digital-life/",
+    "video": false
+  },
+  {
+    "category": "algorithm",
+    "title": "Algorithms, Data Structures, and Design Patterns",
+    "author": "Antonin Januska",
+    "href": "https://antjanus.com/blog/web-development-tutorials/learn-the-unlearned-algorithms-data-structures-and-design-patterns/",
+    "video": false
+  },
+  {
+    "category": "security",
+    "title": "Can you help me understand what a cryptographic “salt” is?",
+    "author": "MartinSuecia and otus",
+    "href": "https://crypto.stackexchange.com/questions/1776/can-you-help-me-understand-what-a-cryptographic-salt-is",
+    "video": false
+  },
+  {
+    "category": "security",
+    "title": "Salted Password Hashing - Doing it Right",
+    "author": "Defuse Security",
+    "href": "https://crackstation.net/hashing-security.htm",
+    "video": false
+  }
+]
